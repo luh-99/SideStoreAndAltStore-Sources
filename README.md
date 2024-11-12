@@ -1,3 +1,3 @@
-# SideStore-Sources
+# SideStore & AltStore Sources
 
 Literally Sidestore/AltStore Sources
