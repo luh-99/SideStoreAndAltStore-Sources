@@ -1,0 +1,103 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "level3tjg",
+      "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.50.1-1.1.1/RedditFilter_2023.50.1_1.1.1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+      "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+      "name": "RedditFilter",
+      "screenshotURLs": [
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+      ],
+      "size": 142121615,
+      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+      "tintColor": "ff4600",
+      "version": "2023.50.1",
+      "versionDate": "2024-01-05T12:00:00-01:00",
+      "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Alfhaily & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EdNlrmF07-VKts4Vb-ZNdn8Bl_HIJjiUKwnNGHEzOsmW4g?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+      "name": "Rocket for Instagram",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+      "tintColor": "c72a96",
+      "version": "312.0.0",
+      "versionDate": "2024-01-05T12:00:00-01:00",
+      "versionDescription": "Changelog v312.0.0-3.8.19:\n- https://apt.alfhaily.me/depiction/4EYOXC"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Michael Lema & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+      "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
+      "name": "Facebook Wolf",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
+      ],
+      "size": 152672665,
+      "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
+      "tintColor": "478EE2",
+      "version": "402.0",
+      "versionDate": "2023-02-22T14:00:00-00:30",
+      "versionDescription": "v402.0 (2.1): Updated to the latest version of Facebook app"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MiRO92 & Qn_",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v19.08.2-3.0.3/uYouPlus-19.08.2-3.0.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+      "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+      "name": "uYouPlus (uYou+)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+      ],
+      "size": 126194273,
+      "subtitle": "A modified version of uYou with extra features! Requires iOS 14.0 and later.",
+      "tintColor": "e85567",
+      "version": "19.08.2",
+      "versionDate": "2024-2-27T12:00:00-01:00",
+      "versionDescription": "v19.08.2 (3.0.3): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/tag/latest"
+    }
+  ],
+  "identifier": "com.qn.altstorerepo",
+  "name": "Qn_'s AltStore Repo",
+  "news": [
+    {
+      "appID": "com.reddit.Reddit",
+      "caption": "Finally, Reddit can be sideloaded with the ability to block ads and more...",
+      "date": "2022-10-26",
+      "identifier": "reddit-now-available",
+      "imageURL": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG",
+      "notify": false,
+      "tintColor": "ff4600",
+      "title": "RedditFilter is out!"
+    }
+  ],
+  "userInfo": {}
+}
