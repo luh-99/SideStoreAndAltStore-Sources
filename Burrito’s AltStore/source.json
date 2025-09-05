@@ -1,0 +1,176 @@
+{
+	"name": "Burrito's AltStore",
+	"identifier": "com.burritosoftware.AltStore",
+	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"apps": [{
+			"name": "iNDS",
+			"bundleIdentifier": "net.nerd.iNDS",
+			"developerName": "iNDS Team",
+			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
+			"version": "1.10.7",
+			"versionDate": "2020-02-10",
+			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
+			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
+			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
+			"tintColor": "FC2125",
+			"size": 857669,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
+			}],
+			"screenshotURLs": [
+				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
+				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
+				"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+			]
+        },
+		{
+			"name": "Provenance",
+			"bundleIdentifier": "com.provenance-emu.provenance",
+			"developerName": "Provenance Team",
+			"subtitle": "An iOS Frontend for Multiple Emulators",
+			"version": "1.4",
+			"versionDate": "2018-03-13",
+			"versionDescription": "New Features:\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader\n\nImprovements\nImporter improvements (MD5 matching and performance improvements)",
+			"downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/1.4/Provenance-Release-1.4.ipa",
+			"localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
+			"iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
+			"tintColor": "4AA1F0",
+			"size": 23184304,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
+			}],
+			"screenshotURLs": [
+				"https://33.media.tumblr.com/274a3178850133f7db0ef530a69ec26d/tumblr_nhqpnuOa2o1t0wlalo3_1280.jpg",
+				"https://38.media.tumblr.com/d964d6d809d06c55f23c4ef65eee08ce/tumblr_nhqpnuOa2o1t0wlalo2_1280.jpg",
+				"https://41.media.tumblr.com/c4e7f2d9363db90f89f91abc327033f0/tumblr_neu1ewLoQU1t0wlalo2_400.jpg"
+			]
+		},
+		{
+			"name": "UTM",
+			"bundleIdentifier": "com.osy86.UTM",
+			"developerName": "osy86",
+			"subtitle": "Run virtual machines on iOS",
+			"version": "0.1",
+			"versionDate": "2020-02-19",
+			"versionDescription": "Please visit https://getutm.app/install for more details.",
+			"downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+			"iconURL": "https://getutm.app/assets/appicon.png",
+			"tintColor": "1E47D0",
+			"size": 124967347,
+			"screenshotURLs": [
+				"http://placehold.it/750x1334"
+			]
+		},
+		{
+			"name": "Thermometer",
+			"bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
+			"developerName": "Ryan McLeod",
+			"subtitle": "A very crude iPhone thermometer",
+			"version": "1.0",
+			"versionDate": "2020-02-06",
+			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
+			"downloadURL": "https://github.com/burritosoftware/Thermometer/raw/master/Thermometer.ipa",
+			"localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.\n\nThe states:\n🥒 Your phone is cooler than you are. Burn.\n🔥 Your device is warm but performance is probably not being throttled.\n🔥🔥 Your device is hot and performance is probably throttled.\n🔥🔥🔥 Your device hurts to hold in places and performance is definitely being throttled.\n\nThis version of Thermometer was compiled by Burrito, and based off Ryan's thermometer at https://github.com/warpling/Thermometer",
+			"iconURL": "https://raw.githubusercontent.com/warpling/Thermometer/master/iOS/AppIcon.appiconset/Thermometer-83.5%402x.png",
+			"tintColor": "2F2F2F",
+			"size": 377245,
+			"screenshotURLs": [
+				"https://cdn.discordapp.com/attachments/375175618079227914/681270931758383177/image0.png"
+			]
+		},
+		{
+			"name": "appdb",
+			"bundleIdentifier": "it.ned.appdb-ios",
+			"developerName": "n3d1117",
+			"subtitle": "A fully-featured iOS client for appdb.to written in Swift 5",
+			"version": "1.0.4",
+			"versionDate": "2019-12-07",
+			"versionDescription": "Custom developer identities are now detected correctly\nIntegrated new iOS 13 context menus, homescreen shortcuts & haptic feedbacks\nAdded pull to refresh to Featured tab\nAdded French translation (thanks to DzMohaipa)\nAdded Indonesian translation (thanks to Am1nCmd)\nAdded Javanese (Indonesia) translation (thanks to EskaseptianTeam)\nFixed bug where links were not clickable in News\nRemoved the (deprecated) option to link device via email\nVarious other minor fixes and additions",
+			"downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.0.4/appdb_1.0.4.ipa",
+			"localizedDescription": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
+			"iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
+			"tintColor": "008CE3",
+			"size": 23554600,
+			"screenshotURLs": [
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945917465067599/appdb1.png",
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945918417305613/appdb2.png",
+                "https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
+			]
+		},
+		{
+			"name": "unc0ver",
+			"bundleIdentifier": "science.xnu.undecimus",
+			"developerName": "Pwn20wnd & Sam Bingner",
+			"subtitle": "The most advanced jailbreak tool.",
+			"version": "4.0.0",
+			"versionDate": "2020-02-15",
+			"versionDescription": "Full-fledged support for A12-A13 devices on iOS 13.0-13.3 with Cydia and system-wide tweak injection",
+			"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.0.3/Undecimus-v4.0.3.ipa",
+			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+			"iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+			"tintColor": "101216",
+			"size": 857669,
+			"screenshotURLs": [
+				"https://cdn.discordapp.com/attachments/482068798095228928/678392675698999349/image0.png",
+				"https://cdn.discordapp.com/attachments/482068798095228928/678392676340465714/image1.png"
+			]
+		},
+		{
+			"name": "Sileo Demo",
+			"bundleIdentifier": "org.coolstar.SileoDemo",
+			"developerName": "Sileo Team",
+			"subtitle": "Unpack the full potential of your iDevice.",
+			"version": "1.4.1",
+			"versionDate": "2019-09-07",
+			"versionDescription": "Sileo Demo has been updated to 1.4.1 so non-jailbroken users on iOS 11 -> iOS 13 beta 7 can experience the same speed as jailbroken users on 1.4.x!",
+			"downloadURL": "https://electrarepo64.coolstar.org/ipas/Sileo%20Demo%201.4.1.ipa",
+			"localizedDescription": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
+			"iconURL": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+			"tintColor": "1AC3BE",
+			"size": 7792641,
+			"screenshotURLs": [
+				"https://pbs.twimg.com/media/ED-2Z-XUEAIYfJB?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2Z_YUUAAVQma?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
+			]
+		}
+	],
+	"news": [
+		{
+			"title": "unc0ver is now out!",
+			"identifier": "undecimus",
+			"caption": "The most advanced jailbreak tool. Tap to download.",
+			"tintColor": "101216",
+			"imageURL": "https://cdn.discordapp.com/attachments/482068798095228928/678393363590021130/unknown.png",
+			"appID": "science.xnu.undecimus",
+			"date": "2020-02-09",
+			"notify": false
+		},
+		{
+			"title": "What's New",
+			"identifier": "whatsnew",
+			"caption": "- Added Thermometer, by Ryan McLeod. Perfect for checking device throttle.\n- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for using Burrito's AltStore.",
+			"tintColor": "018084",
+			"date": "2020-02-13",
+			"notify": false
+		},
+		{
+			"title": "Welcome to Burrito's AltStore",
+			"identifier": "connection",
+			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
+			"tintColor": "FF9500",
+			"url": "https://burritosoftware.github.io/altstore",
+			"date": "2020-02-14",
+			"notify": false
+		}
+	],
+	"userInfo": {
+		"patreonAccessToken": "JLh5bpOQsPg-HIRe6FHnRAktoeeU4JT5-Xk-y7njQrM"
+	}
+}
